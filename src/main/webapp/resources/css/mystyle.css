@@ -1,0 +1,10 @@
+.top_bar{background:#F26522;padding:3px 0;} 
+.social_icons{margin-left:5px;}  
+.contact_info{color:#fff;}
+.footer{background:black; padding:7px; color:#fff; position:fixed;width:100%;bottom:0;}
+.my_menu1{margin-top:16px;padding:3px 0;}
+
+.my_menu{margin-top:27px;}
+.my_menu .navbar-default{background:none;border:none;}
+.my_menu .navbar-nav .active a, .my_menu .navbar-nav .active a:hover{background:#F26522;color:#fff;}
+.my_menu .navbar-nav li a:hover{background:#F26522;color:#fff;}    
