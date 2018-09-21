@@ -1,1 +1,7 @@
+com\niit\globalbooks\service\Productservice.class
+com\niit\globalbooks\service\impl\ProductserviceImpl.class
+com\niit\globalbooks\model\Product.class
 com\niit\globalbooks\controller\HomeController.class
+com\niit\globalbooks\dao\ProductDAO.class
+com\niit\globalbooks\dao\impl\ProductDAOimpl.class
+com\niit\globalbooks\controller\ProductsController.class

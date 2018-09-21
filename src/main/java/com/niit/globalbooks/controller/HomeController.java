@@ -14,10 +14,10 @@ public class HomeController {
 	{
 		return "index";
 	}
-	@ GetMapping("/AllProduct")
-	public String viewAllProduct(Model model)
+	/*@GetMapping("/AllProduct")
+	public String viewAllProducts(Model model)
 	{
-		model.addAttribute("Name", "Rakesh");
+		model.addAttribute("Name","gaurav");
 		return "AllProduct";
-	}
+	}*/
 }
