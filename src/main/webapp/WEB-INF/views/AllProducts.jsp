@@ -15,7 +15,7 @@
 <h2>welcome ${Name}</h2>
 
  <div class="container-fluid">
-<div class="table-responsive">
+<div class="table table-bordered">
 <table class="table">
 <thead>
 <tr>	
@@ -36,11 +36,11 @@
 <td>${products.price}</td>
 <td>${products.quantity}</td>
 <td>${products.description}</td>
-<td>${products.image}</td>
 
 
-<td><img src="<c:url value="/resources/images/${products.image}.jpg" />" style="width:10%"/></td>
-<td><a href="#" />view more<span class="glyphicon glyphicon-info-sign"></span></a></td>
+
+<td><img src="<c:url value="/resources/images/${products.image}.jpg" />" class="img-thumbnail" alt="Cinque Terre" width="30" height="40"/></td>
+ <td><a href="#" />view more<span class="glyphicon glyphicon-info-sign"></span></a></td>
  
 </tr>
 </c:forEach>
