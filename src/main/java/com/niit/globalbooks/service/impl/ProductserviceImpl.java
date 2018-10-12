@@ -14,14 +14,35 @@ public class ProductserviceImpl implements Productservice
 @Autowired
 	ProductDAO productDao;
 	
-		public List<Product> getAllProducts() {
-		// TODO Auto-generated method stub
+		public List<Product> getAllProducts()
+		{
 		return productDao.getAllProducts();
-	}
+	    }
 
-		/*public Product getProductById(int pid) {
-			return productDao.getProductById(pid);
+		
+		public Product getProductById(int productId) 
+		{
+			return productDao.getProductById(productId);	
+		}
+		
+		public boolean addProduct(Product product)
+		{
+			return productDao.addProduct(product);
+		}
+		
+		public boolean updateProduct(Product product)
+		{
+			return productDao.updateProduct(product);
+		}
+
+
+		public void deleteProduct(int productId)
+		{
+			productDao.deleteProduct(productId);
 			
 		}
-*/
+
+
+		
+
 }

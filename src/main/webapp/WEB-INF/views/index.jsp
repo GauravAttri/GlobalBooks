@@ -1,4 +1,5 @@
-<%@include file="template/header.jsp" %>
+ <%@include file="template/header.jsp" %> 
+
 <!Doctype html >
 <html lang="en-US">
 <body>

@@ -1,7 +1,12 @@
 D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\dao\impl\ProductDAOimpl.java
 D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\dao\ProductDAO.java
 D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\controller\ProductsController.java
+D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\model\ShippingAddress.java
+D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\model\UserLogin.java
 D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\service\impl\ProductserviceImpl.java
 D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\model\Product.java
+D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\model\User.java
+D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\model\Supplier.java
 D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\service\Productservice.java
 D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\controller\HomeController.java
+D:\DT\workspace\Project\GlobalBooks\src\main\java\com\niit\globalbooks\model\BillingAddress.java

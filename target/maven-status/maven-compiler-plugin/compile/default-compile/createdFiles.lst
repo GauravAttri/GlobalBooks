@@ -1,7 +1,12 @@
+com\niit\globalbooks\model\UserLogin.class
+com\niit\globalbooks\model\User.class
 com\niit\globalbooks\service\Productservice.class
 com\niit\globalbooks\service\impl\ProductserviceImpl.class
 com\niit\globalbooks\model\Product.class
+com\niit\globalbooks\model\BillingAddress.class
+com\niit\globalbooks\model\Supplier.class
 com\niit\globalbooks\controller\HomeController.class
 com\niit\globalbooks\dao\ProductDAO.class
+com\niit\globalbooks\model\ShippingAddress.class
 com\niit\globalbooks\dao\impl\ProductDAOimpl.class
 com\niit\globalbooks\controller\ProductsController.class
