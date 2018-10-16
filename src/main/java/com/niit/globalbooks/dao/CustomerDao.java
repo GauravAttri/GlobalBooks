@@ -1,0 +1,16 @@
+package com.niit.globalbooks.dao;
+
+import java.util.List;
+
+import com.niit.globalbooks.model.Customer;
+
+public interface CustomerDao {
+
+	void addCustomer(Customer customer);
+
+    Customer getCustomerById(int customerId);
+
+    List<Customer> getAllCustomers();
+
+    Customer getCustomerByUsername(String username);
+}

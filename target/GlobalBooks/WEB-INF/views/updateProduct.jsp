@@ -31,7 +31,7 @@
 					</div>
 					<div class="form-group">
 						<label for="id">Product ID</label> <form:input path="productId"
-							id="id" class="form-control" disabled="true"/>
+							id="id" class="form-control" readonly="true"/>
 					</div>
 					<div class="form-group">
 						<label for="price">Product Price</label> <form:input

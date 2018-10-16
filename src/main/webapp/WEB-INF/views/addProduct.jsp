@@ -24,11 +24,7 @@
 
 
 
-				<%-- <div class="form-group">
-					<label for="Id">ID</label>
-					<form:errors path="productId" cssStyle="color:#ff0000;" />
-					<form:input path="productId" id="Id" class="form-Control" />
-				</div> --%>
+			
 
 				<div class="form-group">
 					<label for="name">ProductName</label>

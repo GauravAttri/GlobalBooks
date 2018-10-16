@@ -11,7 +11,7 @@
         </div>
 <%-- <c:url var="addAction" value="/register"></c:url>
  --%>
-		<form:form action="${pageContext.request.contextPath}/register" commandName="registerCommand" method="post">
+		<form:form action="${pageContext.request.contextPath}/register" commandName="customer" method="post">
 			
 
         <h3>Basic Information</h3>

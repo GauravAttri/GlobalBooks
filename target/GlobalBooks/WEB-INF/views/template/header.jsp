@@ -70,7 +70,7 @@
   <li><a href="Aboutus.html">About US</a></li>
   <li><a href="AllProducts">Product</a></li>
   <li><a href="addProduct">AddProduct</a></li>&nbsp&nbsp&nbsp&nbsp
-  
+  <li><a href="register">Register</a></li>
       </ul>
        </div>
   </div>

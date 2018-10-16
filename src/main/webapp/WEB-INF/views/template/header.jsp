@@ -63,7 +63,7 @@
 	 <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav pull-right">
        <ul class="nav navbar-nav navbar-right">
-        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
         <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
       </ul>
   <li class="active"><a href="#">Home</a></li>
